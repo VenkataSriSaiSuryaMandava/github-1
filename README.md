@@ -15,17 +15,26 @@
 
 [GOOGLE](www.google.com)
 
-![MS DHONI](https://cdn.dnaindia.com/sites/default/files/styles/full/public/2019/05/29/829469-28afp-afp1h0253.jpg)
+![MSD](https://cdn.dnaindia.com/sites/default/files/styles/full/public/2019/05/29/829469-28afp-afp1h0253.jpg)
 
 ![MS](https://i.ndtvimg.com/i/2018-04/ms-dhoni-twitter_806x604_51522666709.jpg)
 
-* List_names
-  * List Item-1
-  * List Item-2
-  * List Item-3
+* TEAMS
+  * CSK
+  * RCB
+  * MI
+  * DC
 
-1. TEAM
+1. TEAM_MEMBERS
     1. MSD
     2. VK
     3. RO 
     4. RJ
+
+TEAM|POINTS|NRR
+-----|-----|-----
+CSK|20|4.67
+KKR|14|0.55
+MI|12|0.44
+DC|10|0.33
+RCB|2|-5.98
