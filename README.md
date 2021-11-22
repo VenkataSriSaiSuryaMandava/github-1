@@ -26,10 +26,11 @@
   * DC
 
 1. TEAM_MEMBERS
-    1. MSD
-    2. VK
-    3. RO 
-    4. RJ
+    1. MSD(WK-Bat & C)
+    2. VK(VC)
+    3. RO(Bat) 
+    4. RJ(All-Round)
+    5. RP(Wk-Bat)
 
 TEAM|POINTS|NRR
 -----|-----|-----
@@ -37,4 +38,5 @@ CSK|20|4.67
 KKR|14|0.55
 MI|12|0.44
 DC|10|0.33
-RCB|2|-5.98
+RCB|2|-5.98 
+
